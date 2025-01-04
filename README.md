@@ -1,3 +1,3 @@
-# First NHHS Game
+# Game setup
 
-The NHHS Game Development Club's first project.
+Basic stuff for cmake visual studio SFML code
